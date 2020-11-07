@@ -1,6 +1,6 @@
 ﻿# 100-Days-of-ML-Code-Challenge
 
-# Day 1 | Intro to Machine Learning
+### Day 1 | Intro to Machine Learning
 
 * What is Machine Learning?
 * Types of Machine Learning. 
@@ -8,7 +8,7 @@
 
 ![image](Images/machine-learning.jpg)
 
-# Day 2 | Essential Mathematics for Machine Learning
+### Day 2 | Essential Mathematics for Machine Learning
 
 * Linear Algebra.
 * Matrix and vector operations.
@@ -17,7 +17,7 @@
 * Linear system of equation, Gauss Elimination.
 * Calculus
 
-# Day 3 | Probability and Statistics
+### Day 3 | Probability and Statistics
 
 * Measures of central tendencies
 * Descriptive and Inferential Statistics
@@ -26,7 +26,7 @@
 * Normal distribution
 * Z distribution
 
-# Day 4 | Probability continuation
+### Day 4 | Probability continuation
 
 * Central Limit Theorem
 * Estimators
@@ -34,7 +34,7 @@
 * T-distribution
 * Hypothesis testing
 
-# Day 5 | Trained our first model from Kaggle 
+### Day 5 | Trained our first model from Kaggle 
 
 * How Model works
 * Basic Model Exploration
@@ -44,11 +44,11 @@
 * Random Forests
 * Machine Learning Competition
 
-Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning)
+Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning) <br>
 Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)
 
 
-# Day 6 | Intermediate Machine Learning from kaggle
+### Day 6,7 | Intermediate Machine Learning from kaggle
 
 
 * Dealing with Missing Values
@@ -57,6 +57,6 @@ Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Chall
 * introduction to XGBoost
 * Data Leakage
 
-link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)
+link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)<br>
 link to our code [here]()
 
