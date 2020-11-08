@@ -48,15 +48,16 @@ Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning) 
 Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)
 
 
-### Day 6,7 | Intermediate Machine Learning from kaggle
+### Day 6-8 | Intermediate Machine Learning from kaggle
 
 
 * Dealing with Missing Values
 * Categorical Variables
 * Cross-Validation
+* pipeline
 * introduction to XGBoost
 * Data Leakage
 
 link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)<br>
-link to our code [here]()
+link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)
 
