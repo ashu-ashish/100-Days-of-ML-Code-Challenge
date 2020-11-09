@@ -55,11 +55,12 @@ Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Chall
 * Categorical Variables
 * Pipeline
 * Cross-Validation
+* pipeline
 * introduction to XGBoost
 * Data Leakage
 
 link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)<br>
-link to our code [here]()
+link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)
 
 
 ### Day 9 | Pandas from Kaggle
