@@ -63,7 +63,7 @@ link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-le
 link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)
 
 
-### Day 9 | Pandas from Kaggle
+### Day 9-10 | Pandas from Kaggle
 
 * Creating, Reading and Writing
 * Indexing, Selecting & Assigning
