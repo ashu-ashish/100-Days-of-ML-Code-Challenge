@@ -44,9 +44,8 @@
 * Random Forests
 * Machine Learning Competition
 
-Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning) <br>
-Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)
-
+Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning)   |    Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)   |   Link to Certificate[here](https://www.kaggle.com/learn/certification/ashuashish/intro-to-machine-learning)
+  
 
 ### Day 6-8 | Intermediate Machine Learning from kaggle
 
@@ -59,8 +58,7 @@ Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Chall
 * introduction to XGBoost
 * Data Leakage
 
-link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)<br>
-link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)
+Link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/intermediate-machine-learning)
 
 
 ### Day 9-10 | Pandas from Kaggle
@@ -71,5 +69,20 @@ link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Chall
 * Grouping and Sorting
 * Data Types and Missing Values
 * Renaming and Combining
+
+Link to our resource [here](https://www.kaggle.com/learn/pandas)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/3_Pandas)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/pandas)
+
+### Day 11 | Data Cleaning from Kaggle
+
+
+* Handling Missing Values
+* Scaling and Normalization
+* Parsing Dates
+* Character Encodings
+* Inconsistent Data Entry
+
+Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   Link to our code [here]()    |   Link to certificate[here]()
+
+
 
 
