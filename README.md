@@ -83,6 +83,47 @@ Link to our resource [here](https://www.kaggle.com/learn/pandas)     |   Link to
 
 Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/4_Data%20Cleaning)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/data-cleaning)
 
+### Day 12-13 | Data Analysis with Python from cognitiveclass.ai
+
+  * #### Introduction
+     * Introduction to Data Analysis with Python 
+     * The Problem 
+     * Understanding the Data 
+     * Python Packages for Data Science 
+     * Importing and Exporting Data in Python 
+     * Getting Started Analyzing Data in Python 
+
+
+   * #### Data Wrangling
+     * Pre-processing Data in Python 
+     * Dealing with Missing Values in Python 
+     * Data Formatting in Python 
+     * Data Normalization in Python 
+     * Binning in Python 
+     * Turning categorical into quantitative variables 
+
+   * #### Exploratory Data Analysis
+     * Exploratory Data Analysis 
+     * Descriptive Statistics 
+     * GroupBy in Python 
+     * Analysis of Variance (ANOVA) 
+     * Correlation 
+     * Correlation Statistics 
+
+   * #### Model Development
+     * Introduction
+     * Simple and Multiple Linear Regression 
+     * Model Evaluation using Visualization 
+     * Polynomial Regression and Pipelines 
+     * Measures for In-Sample Evaluation 
+     * Prediction and Decision Making 
+
+   * #### Model Evaluation:
+     * Model Evaluation and Refinement 
+     * Model Evaluation 
+     * Overfitting, Underfitting and Model Selection 
+     * Ridge Regression
+     * Grid Search
 
 
 
