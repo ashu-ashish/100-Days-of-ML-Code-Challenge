@@ -83,7 +83,7 @@ Link to our resource [here](https://www.kaggle.com/learn/pandas)     |   Link to
 
 Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/4_Data%20Cleaning)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/data-cleaning)
 
-### Day 12-16 | Data Analysis with Python from cognitiveclass.ai
+### Day 12-15 | Data Analysis with Python from cognitiveclass.ai
 
   * #### Introduction
      * Introduction to Data Analysis with Python 
