@@ -125,5 +125,51 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
      * Ridge Regression
      * Grid Search
 
+### Day 16-18 | Data Visualization from Kaggle
+
+* Hello, Seaborn
+* Line Charts
+* Bar Charts and Heatmaps
+* Scatter Plots
+* Distributions
+* Choosing Plot Types and Custom Styles
+* Final Project
+
+Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    |   Link to our code [here]()  |   Link to certificate[here]()
+
+### Day 19-21 | Data Visualization with Python from cognitiveclass.ai
+
+* #### Introduction to Visualization Tools
+
+  * Introduction to Data Visualization
+  * Introduction to Matplotlib 
+  * Basic Plotting with Matplotlib 
+  * Dataset on Immigration to Canada
+  * Line Plots 
+
+* #### Basic Visualization Tools
+ 
+  * Area Plots 
+  * Histograms 
+  * Bar Charts 
+
+* #### Specialized Visualization Tools
+  * Pie Charts 
+  * Box Plots 
+  * Scatter Plots 
+
+* #### Advanced Visualization Tools
+
+  * Waffle Charts 
+  * Word Clouds 
+  * Seaborn and Regression Plots 
+
+* #### Creating Maps and Visualizing Geospatial Data
+ 
+  * Introduction to Folium 
+  * Maps with Markers 
+  * Choropleth Maps 
+
+
 
 
