@@ -123,7 +123,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
      * Model Evaluation 
      * Overfitting, Underfitting and Model Selection 
      * Ridge Regression
-     * Grid Search
+     * Grid Search.
 
 ### Day 16-18 | Data Visualization from Kaggle
 
