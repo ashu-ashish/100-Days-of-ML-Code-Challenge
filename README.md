@@ -125,7 +125,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
      * Ridge Regression
      * Grid Search.
 
-### Day 16-18 | Data Visualization from Kaggle
+### Day 16-17 | Data Visualization from Kaggle
 
 * Hello, Seaborn
 * Line Charts
@@ -137,7 +137,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
 
 Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    |   Link to our code [here]()  |   Link to certificate[here]()
 
-### Day 19-21 | Data Visualization with Python from cognitiveclass.ai
+### Day 18-21 | Data Visualization with Python from cognitiveclass.ai
 
 * #### Introduction to Visualization Tools
 
