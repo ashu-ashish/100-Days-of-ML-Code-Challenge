@@ -164,7 +164,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
   * Word Clouds 
   * Seaborn and Regression Plots 
 
-* #### Creating Maps  and Visualizing Geospatial Data
+* #### Creating Maps and Visualizing Geospatial Data
  
   * Introduction to Folium 
   * Maps with Markers 
