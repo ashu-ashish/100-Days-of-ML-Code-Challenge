@@ -169,6 +169,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
   * Introduction to Folium 
   * Maps with Markers 
   * Choropleth Maps 
+  
 
 
 
