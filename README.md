@@ -167,7 +167,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
 * #### Creating Maps and Visualizing Geospatial Data
  
   * Introduction to Folium 
-  * Maps with Markers 
+  * Maps with Markers  
   * Choropleth Maps 
   
 
