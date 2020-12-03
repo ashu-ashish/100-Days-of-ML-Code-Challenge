@@ -170,7 +170,9 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
   * Maps with Markers  
   * Choropleth Maps 
   
-
+### 21-23 | Exploratory Data Analysis
+  * Titanic Dataset
+  * Terrorism Datset
 
 
 
