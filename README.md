@@ -174,5 +174,11 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
   * Titanic Dataset
   * Terrorism Datset
 
+### Day 24-30 | Machine Learning from cognitiveclass.ai
 
+  * #### Module 1 - Machine Learning
+
+    * Intro to Machine Learning 
+    * Python for Machine Learning 
+    * Supervised vs Unsupervised 
 
