@@ -181,4 +181,10 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Intro to Machine Learning 
     * Python for Machine Learning 
     * Supervised vs Unsupervised 
+        
+  * #### Module 2 - Regression
 
+    * Intro to Regression 
+    * Simple Linear Regression 
+    * Multiple Linear Regression 
+    
