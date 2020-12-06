@@ -187,4 +187,6 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Intro to Regression 
     * Simple Linear Regression 
     * Multiple Linear Regression 
-    
+    * Model Evaluation 
+    * Evaluation Metrics 
+    * Non-Linear Regression 
