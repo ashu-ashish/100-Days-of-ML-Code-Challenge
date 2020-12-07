@@ -190,3 +190,5 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Model Evaluation 
     * Evaluation Metrics 
     * Non-Linear Regression 
+    
+    Exercise link [here]
