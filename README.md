@@ -192,3 +192,4 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Non-Linear Regression 
     
     Exercise link [here]
+    
