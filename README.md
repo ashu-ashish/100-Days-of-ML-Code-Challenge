@@ -198,6 +198,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
 
     * Intro to Classification
     * K-Nearest Neighbors
-    * Evaluation Metrics
+    * Evaluation Metrics\
+    
 
     
