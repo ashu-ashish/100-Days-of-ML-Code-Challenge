@@ -194,11 +194,18 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     Exercise link [here]
     
     
-  * #### Module 3 - Classification
+ * #### Module 3 - Classification
 
     * Intro to Classification
     * K-Nearest Neighbors
-    * Evaluation Metrics\
-    
+    * Evaluation Metrics
+
+    * Intro to Decision Trees 
+    * Building Decision Trees 
+
+    * Intro to Logistic Regression 
+    * Logistic vs Linear Regression 
+    * Support Vector Machine 
+
 
     
