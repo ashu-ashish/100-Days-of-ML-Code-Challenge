@@ -191,7 +191,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Evaluation Metrics 
     * Non-Linear Regression 
     
-    Exercise link [here]
+    Exercise link [here]()
     
     
  * #### Module 3 - Classification
@@ -206,6 +206,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Intro to Logistic Regression 
     * Logistic vs Linear Regression 
     * Support Vector Machine 
+    Exercise link [here]()
 
 
     
