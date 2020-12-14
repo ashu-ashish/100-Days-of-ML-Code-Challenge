@@ -207,6 +207,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Logistic vs Linear Regression 
     * Support Vector Machine 
     Exercise link [here]()
+    
 
 
     
