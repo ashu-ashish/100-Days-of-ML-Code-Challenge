@@ -208,6 +208,15 @@ Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    
     * Support Vector Machine 
     Exercise link [here]()
     
+    
+ * #### Module 4 - Clustering
+
+    * Intro to Clustering 
+    * K-Means Clustering 
+    * More on K-Means 
+    * Hierarchical Clustering 
+    * DBSCAN Clustering 
+    
 
 
     
