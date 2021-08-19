@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 # Machine Learning
-=======
-<<<<<<< HEAD
-# hello
-=======
-﻿# Machine Learning
->>>>>>> a7e8f3a5696bd8e5a4a3e8ab9a8b54fb7c85369d
 
 ### Intro to Machine Learning
 
@@ -54,7 +47,6 @@
 Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning)   |    Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)   |   Link to Certificate[here](https://www.kaggle.com/learn/certification/ashuashish/intro-to-machine-learning)
   
 
-<<<<<<< HEAD
 ### Python for Data Science from Cognitiveclass.ai
  * Module 1 - Python Basics
  * Module 2 - Python Data Structures
@@ -64,8 +56,6 @@ Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning) 
 
 Link to our resource [here](https://courses.cognitiveclass.ai/courses/course-v1:Cognitiveclass+PY0101EN+v2/course/)     |   Link to our code [here]()    |   Link to certificate[here](https://courses.cognitiveclass.ai/certificates/4c87e740296542aab8489a5626238960)
 
-=======
->>>>>>> a7e8f3a5696bd8e5a4a3e8ab9a8b54fb7c85369d
 ### Intermediate Machine Learning from kaggle
 
 
@@ -102,11 +92,7 @@ Link to our resource [here](https://www.kaggle.com/learn/pandas)     |   Link to
 
 Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/4_Data%20Cleaning)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/data-cleaning)
 
-<<<<<<< HEAD
 ### Data Analysis with Python from cognitiveclass.ai
-=======
-### Day 12-15 | Data Analysis with Python from cognitiveclass.ai
->>>>>>> a7e8f3a5696bd8e5a4a3e8ab9a8b54fb7c85369d
 
   * #### Introduction
      * Introduction to Data Analysis with Python 
@@ -148,11 +134,8 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
      * Ridge Regression
      * Grid Search.
 
-<<<<<<< HEAD
 Link to our resource [here](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+2017/course/)    |   Link to our code [here]()  |   Link to certificate[here](https://courses.cognitiveclass.ai/certificates/201a85e3a52d476e8c4ec5380ba18c55)
 
-=======
->>>>>>> a7e8f3a5696bd8e5a4a3e8ab9a8b54fb7c85369d
 ### Data Visualization from Kaggle
 
 * Hello, Seaborn
@@ -165,7 +148,6 @@ Link to our resource [here](https://courses.cognitiveclass.ai/courses/course-v1:
 
 Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    |   Link to our code [here](https://github.com/ashu-ashish/Machine-Learning/tree/main/Code/6_Data%20Visualization%20from%20kaggle)  |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/data-visualization)
 
-<<<<<<< HEAD
 ### Data Visualization with Python from cognitiveclass.ai
 
 * #### Introduction to Visualization Tools
@@ -212,7 +194,3 @@ Link to our resource [here](https://courses.cognitiveclass.ai/courses/course-v1:
 
 
 Link to our resource [here](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+ML0101ENv3+2018/course/)    |   Link to our code [here]()  |   Link to certificate[here](https://courses.cognitiveclass.ai/certificates/b4456440298f4689b2ca3cd455703124)
-=======
-  
->>>>>>> 81c76128fe3072f7051027c036e49ce19b142235
->>>>>>> a7e8f3a5696bd8e5a4a3e8ab9a8b54fb7c85369d
