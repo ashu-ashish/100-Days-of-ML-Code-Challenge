@@ -1,6 +1,6 @@
-﻿# 100-Days-of-ML-Code-Challenge  
+﻿# Machine Learning
 
-### Day 1 | Intro to Machine Learning
+### Intro to Machine Learning
 
 * What is Machine Learning?
 * Types of Machine Learning. 
@@ -8,7 +8,7 @@
 
 ![image](Images/machine-learning.jpg)
 
-### Day 2 | Essential Mathematics for Machine Learning
+### Essential Mathematics for Machine Learning
 
 * Linear Algebra.
 * Matrix and vector operations.
@@ -17,7 +17,7 @@
 * Linear system of equation, Gauss Elimination.
 * Calculus
 
-### Day 3 | Probability and Statistics
+### Probability and Statistics
 
 * Measures of central tendencies
 * Descriptive and Inferential Statistics
@@ -26,7 +26,7 @@
 * Normal distribution
 * Z distribution
 
-### Day 4 | Probability continuation
+### Probability continuation
 
 * Central Limit Theorem
 * Estimators
@@ -34,7 +34,7 @@
 * T-distribution
 * Hypothesis testing
 
-### Day 5 | Trained our first model from Kaggle 
+### Trained our first model from Kaggle 
 
 * How Model works
 * Basic Model Exploration
@@ -47,7 +47,7 @@
 Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning)   |    Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/1_Intro%20to%20machine%20Learning%20from%20kaggle)   |   Link to Certificate[here](https://www.kaggle.com/learn/certification/ashuashish/intro-to-machine-learning)
   
 
-### Day 6-8 | Intermediate Machine Learning from kaggle
+### Intermediate Machine Learning from kaggle
 
 
 * Dealing with Missing Values
@@ -61,7 +61,7 @@ Link to Resource [here](https://www.kaggle.com/learn/intro-to-machine-learning) 
 Link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-learning)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/2_Intermediate%20Machine%20Learning)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/intermediate-machine-learning)
 
 
-### Day 9-10 | Pandas from Kaggle
+### Pandas from Kaggle
 
 * Creating, Reading and Writing
 * Indexing, Selecting & Assigning
@@ -72,7 +72,7 @@ Link to our resource [here](https://www.kaggle.com/learn/intermediate-machine-le
 
 Link to our resource [here](https://www.kaggle.com/learn/pandas)     |   Link to our code [here](https://github.com/ashu-ashish/100-Days-of-ML-Code-Challenge/tree/main/Code/3_Pandas)    |   Link to certificate[here](https://www.kaggle.com/learn/certification/ashuashish/pandas)
 
-### Day 11 | Data Cleaning from Kaggle
+### Data Cleaning from Kaggle
 
 
 * Handling Missing Values
@@ -125,7 +125,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
      * Ridge Regression
      * Grid Search.
 
-### Day 16-17 | Data Visualization from Kaggle
+### Data Visualization from Kaggle
 
 * Hello, Seaborn
 * Line Charts
@@ -137,7 +137,7 @@ Link to our resource [here](https://www.kaggle.com/learn/data-cleaning)     |   
 
 Link to our resource [here](https://www.kaggle.com/learn/data-visualization)    |   Link to our code [here]()  |   Link to certificate[here]()
 
-### Day 18-21 | Data Visualization with Python from cognitiveclass.ai
+### Data Visualization with Python from cognitiveclass.ai
 
 * #### Introduction to Visualization Tools
 
